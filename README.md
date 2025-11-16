@@ -216,27 +216,27 @@ Performance metrics tracking
 ## 📸 Dashboard Screenshots
 
 ### Executive Dashboard Overview
-![Dashboard Overview](<img width="2284" height="684" alt="screenshot1_overview png" src="https://github.com/user-attachments/assets/5bc20b6e-1398-4f64-8340-3fa006578457" />)
+![Dashboard Overview](https://github.com/user-attachments/assets/5bc20b6e-1398-4f64-8340-3fa006578457)
 *Real-time KPIs and market segmentation analysis*
 
 ### Market Overview
-![German Luxury Analysis](<img width="2294" height="1107" alt="scrrenshot3_luxurytrio png" src="https://github.com/user-attachments/assets/1e13d1ea-29d5-44dd-80c2-7febc80a6e82" />)
+![Market Overview](https://github.com/user-attachments/assets/1e13d1ea-29d5-44dd-80c2-7febc80a6e82)
 *Luxury Automotive Market vs Mass Automotive Market*
 
 ### Luxury Competitive Analysis
-![German Luxury Analysis](<img width="2294" height="1107" alt="scrrenshot3_luxurytrio png" src="https://github.com/user-attachments/assets/1e13d1ea-29d5-44dd-80c2-7febc80a6e82" />)
+![German Luxury Analysis](https://github.com/user-attachments/assets/1e13d1ea-29d5-44dd-80c2-7febc80a6e82)
 *Mercedes-Benz, BMW, and Audi comparison with price trends*
 
 ### Geographic Market Intelligence
-![Geographic Analysis](<img width="2294" height="907" alt="screenshot4_geographic png" src="https://github.com/user-attachments/assets/54bde31d-7b18-4ff3-ba96-ab09b43716e2" />)
+![Geographic Analysis](https://github.com/user-attachments/assets/54bde31d-7b18-4ff3-ba96-ab09b43716e2)
 *State-level transaction volume and luxury penetration rates*
 
 ### Performance Metrics
-![Performance Metrics](<img width="2292" height="905" alt="screenshot5_performance png" src="https://github.com/user-attachments/assets/d1a9ed26-ea00-4f7a-82f8-9b320ee2a52b" />)
+![Performance Metrics](https://github.com/user-attachments/assets/d1a9ed26-ea00-4f7a-82f8-9b320ee2a52b)
 *Engine specifications and price vs performance positioning*
 
 ### Strategic Insights
-![Strategic Insights](<img width="2292" height="1107" alt="screenshot6_analysis png" src="https://github.com/user-attachments/assets/2328042b-ad23-47aa-bddb-7081860aab68" />)
+![Strategic Insights](https://github.com/user-attachments/assets/2328042b-ad23-47aa-bddb-7081860aab68)
 *Market opportunities and competitive recommendations*
 
 ---
