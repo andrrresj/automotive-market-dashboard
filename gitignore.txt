@@ -1,0 +1,13 @@
+# Data files (too large for GitHub)
+*.csv
+
+# Python cache
+__pycache__/
+*.pyc
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Streamlit cache
+.streamlit/
