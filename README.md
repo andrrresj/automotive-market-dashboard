@@ -1,12 +1,10 @@
 🏎️ Luxury Automotive Market Intelligence Dashboard
 Competitive intelligence platform analyzing 530K+ transactions across premium automotive segments
-Show Image
-Show Image
-Show Image
+
 🎯 Project Overview
 This interactive dashboard provides comprehensive market intelligence for the luxury automotive sector, with a focus on competitive analysis for premium brands like Porsche, Mercedes-Benz, BMW, and Audi. Built to demonstrate product analytics and strategic marketing capabilities for automotive industry positions.
-Business Context
-Created as part of application materials for Porsche Engineering Services Marketing & Strategy internship. Demonstrates:
+
+Demonstrates:
 
 Strategic market analysis
 Competitive intelligence gathering
@@ -257,7 +255,6 @@ Includes: Engine specs, pricing, features
 Coverage: Major automotive brands
 
 
-
 🔮 Future Enhancements
 
  Add predictive pricing models
@@ -269,25 +266,6 @@ Coverage: Major automotive brands
  Add PDF report generation
  Include lease vs purchase analysis
 
-🎓 Application Context
-Porsche Engineering Services Internship
-This project directly addresses key requirements:
-
-✅ Marketing Analytics: Competitive intelligence and market analysis
-✅ Strategic Thinking: Market positioning and opportunity identification
-✅ Data Analysis: Large dataset manipulation and insights generation
-✅ Business Acumen: Understanding luxury automotive market dynamics
-✅ Communication: Clear visualization of complex data
-✅ Industry Passion: Genuine interest in automotive sector
-
-Transferable to Other Industries
-The analytical framework applies to:
-
-Consumer electronics (Apple, Samsung ecosystem)
-Fashion/luxury goods (premium brand positioning)
-Real estate (market segmentation and pricing)
-SaaS products (tiered pricing analysis)
-
 👤 Author
 Andres Jimenez
 
@@ -298,9 +276,6 @@ Portfolio: View Projects
 Additional Context
 
 Background: Economics & International Business, SDSU
-Interests: Healthcare analytics, automotive industry, data visualization
-Side Business: Car photography business (combines passion with business)
-Career Goal: Product analytics role at tech/automotive company
 
 📄 License
 This project is open source and available under the MIT License.
